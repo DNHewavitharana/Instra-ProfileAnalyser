@@ -1,0 +1,4 @@
+# Project exclude paths
+/insta-common/target/
+/insta-dataservice/target/
+/insta-endpoint/target/
